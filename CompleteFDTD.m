@@ -213,7 +213,7 @@ if (mode== 0)
 % on any new simulation. Energy conservation is calculated by creating a
 % square of test points for E and H fields, and then calculating the
 % Poynting vector to give total power flow through each side of the square
-% (W/m). More information on how this is done follows in section X. 
+% (W/m^2). More information on how this is done follows in section 9. 
 % The location of these test points can be modified to increase or decrease
 % the size of the test square. Note that the test square should never
 % contain the source. 
@@ -299,7 +299,7 @@ if (mode == 1)
 % on any new simulation. Energy conservation is calculated by creating a
 % square of test points for E and H fields, and then calculating the
 % Poynting vector to give total power flow through each side of the square
-% (W/m^2). More information on how this is done follows in section X. 
+% (W/m^2). More information on how this is done follows in section 9. 
 % The location of these test points can be modified to increase or decrease
 % the size of the test square. Note that the test square should never
 % contain the source. 
