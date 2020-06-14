@@ -1,4 +1,5 @@
 %% 2D FDTD code with unidirectional soft source and absorbing PML boundary conditions. This code can be used to simulate optical phenomena.
+
 % Users can adjust the source wavelength, as well as the object geometry
 % and material properties. 
 %        
